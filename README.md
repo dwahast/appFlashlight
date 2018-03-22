@@ -1,2 +1,2 @@
 # appFlashlight
-Aplicativo simples de uma lanterna. minimo: Android 6.0
+Aplicativo simples de uma lanterna. minimo: Android Lollipop
